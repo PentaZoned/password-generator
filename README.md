@@ -14,6 +14,14 @@ The first pop-up is a prompt asking the user for a numerical input between 8 and
 
 * [See Live Site](https://pentazoned.github.io/password-generator/)
 
+## Screenshots and Gifs
+
+* [Demonstration GIF](https://github.com/PentaZoned/password-generator/blob/main/demonstration.gif)
+* [First Screenshot of Password Generator](assets/screenshots1.jpg)
+* [Second Screenshot of Password Generator](assets/screenshots2.jpg)
+* [Third Screenshot of Password Generator](assets/screenshots3.jpg)
+* [Four Screenshot of Password Generator](assets/screenshots4.jpg)
+
 
 ## Authors
 
