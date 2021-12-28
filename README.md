@@ -1,37 +1,8 @@
 # password-generator
 
-One paragraph of project description goes here.
+The purpose of this product is to use javascript to create a password generator. This app runs in the browser and does not need any setup for it to function as it is a live, deployed link. Once the website is loaded, the user is presented with a simple rectangular UI with a button for interaction. Upon pressing the button, the user is prompted with a series of prompts to address the criteria for the password that will be generated. 
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-What things you need to install the software and how to install them.
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development environment running.
-
-Say what the step will be:
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
-
+The first pop-up is a prompt asking the user for a numerical input between 8 and 128 and shows an error otherwise. The next four confirm messages are to decide whether the user wants lowercase, uppercase, numerical, and/or special characters. There is an error message for when none of the options are chosen. The password is generated once the popups are correctly addressed.
 
 ## Built With
 
@@ -41,18 +12,16 @@ End with an example of getting some data out of the system or using it for a lit
 
 ## Deployed Link
 
-* [See Live Site](#)
+* [See Live Site](https://pentazoned.github.io/password-generator/)
 
 
 ## Authors
 
-* **YOUR NAME** 
+* **Bradley Le** 
 
-- [Link to Portfolio Site](#)
-- [Link to Github](https://github.com/)
-- [Link to LinkedIn](https://www.linkedin.com/)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+- [Link to Portfolio Site](https://pentazoned.github.io/portfolio-1/)
+- [Link to Github](https://github.com/PentaZoned)
+- [Link to LinkedIn](https://www.linkedin.com/in/bradley-le-/)
 
 ## License
 
@@ -60,6 +29,4 @@ This project is licensed under the MIT License
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code, libraries, packages, or UI was used  / inspired from
-* Inspiration
-* etc
+A big thank you to my instructor and Teacher Assistants for providing the starter code and for guiding the students. 
