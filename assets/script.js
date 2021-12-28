@@ -13,3 +13,12 @@ function writePassword() {
 
 // Allows the button to be used for interation and starts the js functions
 generateBtn.addEventListener("click", writePassword);
+
+var generatePassword = function () {
+  var numChar = prompt("Enter a number from 8 to 128 for the number of characters.");
+
+  while (numChar < 8 || numChar > 128) {
+    alert("Number is not between 8 and 128");
+    var numChar = prompt("Enter a number from 8 to 128 for the number of characters.");
+  }
+}
