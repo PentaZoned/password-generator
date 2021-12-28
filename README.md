@@ -1,5 +1,4 @@
 # password-generator
-# Template
 
 One paragraph of project description goes here.
 
